@@ -1,0 +1,1 @@
+"""VayuCare Core Module."""
